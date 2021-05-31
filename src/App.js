@@ -1,24 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Characters from './pages/Characters/index.tsx';
+import GlobalStyle from './styles/global.ts'
 
-function App() {
+const App = () => {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <main>
+        <GlobalStyle/>
+    <div>
+      <header className='header'>
+        <img src='/images/logo.png'></img>
       </header>
+      <main  className ='main'>
+        <Characters/>
+      </main>
+      <footer className= 'footer'>Feito por Luzardo Arruda.😎</footer>
     </div>
+    </main>
   );
 }
 
