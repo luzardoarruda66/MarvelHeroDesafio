@@ -1,7 +1,7 @@
 # <h1 align="center">Marvel Hero List</h1>
 
 <div>
-    <img src="MarvelHeroDesafio/github/print1.JPG">
+    <img src="/github/print1.JPG">
     <img src="./github/print2.jpg">
 </div>
 
