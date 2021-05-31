@@ -10,7 +10,7 @@
 <p>Desafio de desenvolvimento da <a href="https://cartaovaibem.com.br/">Cartão Vai Bem</a></p>
 
 <p>
-    Aplicação com principal exibir uma listagem de personagens da Marvel, consumindo a <a href='https://developer.marvel.com/'>API da Marvel</a>.
+    Aplicação com principal objetivo de exibir uma listagem de personagens da Marvel, consumindo a <a href='https://developer.marvel.com/'>API da Marvel</a>.
 </p>
 
 # Tecnologias
