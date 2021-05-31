@@ -1,8 +1,8 @@
 # <h1 align="center">Marvel Hero List</h1>
 
 <div>
-    <img src="./github/print.PNG">
-    <img src="./github/print2.PNG">
+    <img src="/github/print.PNG">
+    <img src="/github/print2.PNG">
 </div>
 
 # Sobre
