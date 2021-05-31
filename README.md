@@ -2,7 +2,7 @@
 
 <div>
     <img src="/github/print1.JPG">
-    <img src="./github/print2.jpg">
+    <img src="/github/print2.JPG">
 </div>
 
 # Sobre
