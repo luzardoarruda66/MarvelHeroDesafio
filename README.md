@@ -39,9 +39,6 @@ cd MarvelHeroDesafio
 # Instale as dependências
 yarn ou npm install
 
-# Inicie o servidor
-yarn server ou npm run server
-
 # Inicie a aplicação
-yarn start ou npm run start
+yarn start ou npm start
 </pre>
